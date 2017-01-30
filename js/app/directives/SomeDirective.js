@@ -24,3 +24,4 @@ function SomeDirective() {
 angular
 	.module('app')
 	.directive('someDirective', SomeDirective);
+	
